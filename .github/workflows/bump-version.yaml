@@ -65,7 +65,7 @@ jobs:
           SNAPSHOT_VERSION=$VERSION
 
           # Persist the "version" in the pom.xml
-          mvn -B -ntp versions:set -DnewVersion='$SNAPSHOT_VERSION' -DgenerateBackupPoms=false
+          mvn -B -ntp versions:set -DnewVersion="$SNAPSHOT_VERSION" -DgenerateBackupPoms=false
 
           # Commit and push to origin main
           git add .
