@@ -37,7 +37,7 @@ The features of FA³ST Service include
 ### Download pre-compiled JAR
 
 <!--start:download-release-->
-[Download latest RELEASE version (0.1.0-cloudevents)](not published on maven repositories)<!--end:download-release-->
+[Download latest RELEASE version (0.1.1-cloudevents)](not published on maven repositories)<!--end:download-release-->
 
 <!--start:download-snapshot-->
 <!--end:download-snapshot-->
@@ -47,13 +47,13 @@ The features of FA³ST Service include
 <dependency>
 	<groupId>de.fraunhofer.iosb.ilt.faaast.service</groupId>
 	<artifactId>starter</artifactId>
-	<version>0.1.0-cloudevents</version>
+	<version>0.1.1-cloudevents</version>
 </dependency>
 ```
 
 ### As Gradle Dependency
 ```kotlin
-implementation 'de.fraunhofer.iosb.ilt.faaast.service:starter:0.1.0-cloudevents'
+implementation 'de.fraunhofer.iosb.ilt.faaast.service:starter:0.1.1-cloudevents'
 ```
 
 ## Building from Source
