@@ -4,7 +4,7 @@
     <parent>
         <groupId>de.fraunhofer.iosb.ilt.faaast.service</groupId>
         <artifactId>service</artifactId>
-        <version>$SNAPSHOT_VERSION</version>
+        <version>$SNAPSHOT_VERSION..1-SNAPSHOT</version>
         <relativePath>../../pom.xml</relativePath>
     </parent>
     <groupId>de.fraunhofer.iosb.ilt.faaast.service</groupId>
