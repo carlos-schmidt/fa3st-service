@@ -24,7 +24,7 @@ maven/mavencentral/com.github.java-json-tools/json-patch/1.13, Apache-2.0 OR LGP
 maven/mavencentral/com.github.java-json-tools/msg-simple/1.2, Apache-2.0 OR LGPL-3.0-or-later, approved, #15239
 maven/mavencentral/com.github.jknack/handlebars-helpers/4.3.1, Apache-2.0, approved, clearlydefined
 maven/mavencentral/com.github.jknack/handlebars/4.3.1, MIT AND Apache-2.0, approved, #3064
-maven/mavencentral/com.github.tomakehurst/wiremock-jre8/2.35.2, NOASSERTION, restricted, clearlydefined
+maven/mavencentral/com.github.tomakehurst/wiremock-jre8/2.35.2, MIT AND Apache-2.0, approved, #23969
 maven/mavencentral/com.github.valfirst/slf4j-test/3.0.1, MIT, approved, clearlydefined
 maven/mavencentral/com.github.virtuald/curvesapi/1.08, BSD-3-Clause AND Apache-2.0, approved, #23170
 maven/mavencentral/com.google.code.findbugs/jsr305/2.0.1, BSD-3-Clause AND CC-BY-2.5 AND LGPL-2.1+, approved, CQ13390
